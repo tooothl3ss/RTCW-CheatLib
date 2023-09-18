@@ -28,6 +28,9 @@ This DLL library provides functionality to modify the game Return to Castle Wolf
 
 ## Known Issues:
 - The cheat may become non-functional if you load a saved game during gameplay without going back to the main menu or dying (which you won't with the cheat). To resolve this, return to the main menu and load your saved game from there.
+---
+
+**Disclaimer:** This cheat library is provided for educational purposes only. The author is not responsible for any misuse or potential damage caused by this software. Use at your own risk.
 
 
 ## Contact & Support:
