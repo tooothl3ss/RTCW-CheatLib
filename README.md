@@ -33,6 +33,4 @@ This DLL library provides functionality to modify the game Return to Castle Wolf
 **Disclaimer:** This cheat library is provided for educational purposes only. The author is not responsible for any misuse or potential damage caused by this software. Use at your own risk.
 
 
-## Contact & Support:
 
-For updates and more info, join my Telegram channel: [CheatCrafting101](https://t.me/cheatdevelop)
